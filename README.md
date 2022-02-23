@@ -2,7 +2,8 @@
 - 🎨 I’m interested in Product Design
 - 🏢 I’m currently do that for Workday
 - 👨🏼‍💻 I’m also looking to help others with their web projects
-- 📫 You can reach me at hello@mattb.co
+- 🧭 You can find me online at mattb.co
+- 📫 You can also reach me at hello@mattb.co
 
 <!---
 matt-bowers/matt-bowers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
