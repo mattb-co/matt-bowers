@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m @matt-bowers
-- 🎨 I’m interested in Product Design
-- 🏢 I’m currently do that for Workday
-- 👨🏼‍💻 I’m also looking to help others with their web projects
-- 🧭 You can find me online at mattb.co
+- 🎨 I’m a professional Product Designer
+- 🏢 I’m currently doing that for Workday
+- 👨🏼‍💻 I also love helping others with their web projects
+- 🧭 You can find me online at mattb.co/
 - 📫 You can also reach me at hello@mattb.co
 
 <!---
